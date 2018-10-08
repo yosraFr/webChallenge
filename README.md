@@ -8,6 +8,7 @@ Author: [FRIX Youssra]
 Technologies to use: [HTML5, CSS3, javascript (Jquery, bootStrap, ...) PHP, SQL], models [MVC2], github.
 
  This version uses an MVC architecture.
+ project.rar contains the database
 
 1. the index page (the login page):
    
