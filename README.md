@@ -12,6 +12,7 @@ Technologies to use: [HTML5, CSS3, javascript (Jquery, bootStrap, ...) PHP, SQL]
  
  
 1. the index page (the login page):
+
    
     
     a. the login page where the user will authenticate
@@ -25,6 +26,7 @@ Technologies to use: [HTML5, CSS3, javascript (Jquery, bootStrap, ...) PHP, SQL]
       
       
  2. the main page:
+ 
         
         
         a. the list of the different shops sorted according to the increasing distance
